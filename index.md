@@ -1,9 +1,9 @@
-<img src="F5OAy_rXAAAsea2.png">
 
-# **Alejandro Linares Molina**
+
+# **Pablo Giner Giménez**
 
 ## Objetivo Profesional
-Tengo conocimientos en aplicaciones como Cisco, Wireshark, Access y Excel. Mi objetivo es trabajar en el área de redes y programación.
+Tengo conocimientos en aplicaciones con programacion y Excel. Mi objetivo es trabajar en el área de redes y programación.
 
 ### Formación
 - **2020**: E50 INS, Eugeni Ors, L'Hospitalet de Llobregat, Barcelona
